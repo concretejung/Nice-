@@ -1,2 +1,5 @@
-# Nice-
-All out
+Focus 
+consistancy
+descipline
+hardwork
+attention
