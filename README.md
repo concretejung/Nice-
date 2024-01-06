@@ -1,9 +1,1 @@
-Focus 
-consistancy
-descipline
-hardwork
-attention
-hello
-hello
-hello
-hello
+<h1>h</h1>
